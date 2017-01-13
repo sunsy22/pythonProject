@@ -1,0 +1,6 @@
+# start of script
+type = user
+count = 49
+speed = 1.0
+start data >>
+LaunchActivity(com.shundaojia.travel.passenger,com.shundaojia.travel.ui.user.login.LoginActivity)
